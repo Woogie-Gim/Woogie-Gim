@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Woogie%20Gim&animation=fadeIn&fontColor=00F00)
 
-<p align=center>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjsdnr960)](https://solved.ac/tjsdnr960)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woogie-Gim)](https://github.com/anuraghazra/github-readme-stats) 
-</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woogie-Gim)](https://github.com/Woogie-Gim/github-readme-stats)
 
