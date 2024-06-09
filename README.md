@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?text=Woogie%Gim!)](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Woogie%20Gim&animation=fadeIn&fontColor=00F00)
+[[![header](https://capsule-render.vercel.app/api?text=Woogie%Gim!)](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Woogie%20Gim&animation=fadeIn&fontColor=00F00)](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Woogie%20Gim&animation=fadeIn&fontColor=00F00)
 
 <!--
 **Woogie-Gim/Woogie-Gim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
