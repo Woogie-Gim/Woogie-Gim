@@ -13,9 +13,7 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
-<div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Woogie-Gim&theme=tokyonight)](https://git.io/streak-stats)
-</div>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjsdnr960)](https://solved.ac/tjsdnr960)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woogie-Gim)](https://github.com/anuraghazra/github-readme-stats) 
 
