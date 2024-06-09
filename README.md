@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Woogie%20Gim&animation=fadeIn&fontColor=00F00)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjsdnr960)](https://solved.ac/tjsdnr960)
 <!--
 **Woogie-Gim/Woogie-Gim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
