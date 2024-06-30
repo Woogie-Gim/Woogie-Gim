@@ -34,7 +34,6 @@
 - 2024.04.08 ~ 2024.05.20 KICKBACK
     - 민첩한 고양이들과 함께 하는 캐주얼 레이싱 게임, 여러 트랙에서 장애물들을 피해가며 부스터를 충전, 누구보다 빠른 랩타임을 기록하여 경쟁하는 게임
     - 캐주얼 고양이 레이싱 모바일 게임
-
 <!--
 **Woogie-Gim/Woogie-Gim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
