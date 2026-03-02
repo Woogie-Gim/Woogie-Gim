@@ -23,10 +23,8 @@
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
   <br>
   <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Confluence-172B4D.svg?style=for-the-badge&logo=Confluence&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Dooray!-2052B3.svg?style=for-the-badge&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white" />&nbsp;
 </div>
 
 <br>
