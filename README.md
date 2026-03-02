@@ -1,22 +1,54 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Woogie%20Gim&animation=fadeIn&fontColor=00F00)
 
-<h2 align="center">✨ Tech Stack ✨</h3>
+<h2 align="center">✨ Tech Stack ✨</h2>
 
 <div align ="center">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=Unreal%20Engine&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DirectX_12-107C10?style=flat-square&logo=xbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 </div>
 
-<h2 align="center">🛠 Tools 🛠</h3>
+<h2 align="center">🛠 Tools 🛠</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp;
 </div>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjsdnr960)](https://solved.ac/tjsdnr960)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woogie-Gim)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woogie-Gim)](https://github.com/Woogie-Gim/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Woogie-Gim&theme=tokyonight)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://solved.ac/tjsdnr960">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjsdnr960" alt="Solved.ac Profile" />
+  </a>
+</div>
 
+<br>
+
+<div align="center">
+  <a href="https://github.com/Woogie-Gim">
+    <img src="https://github-readme-stats.vercel.app/api?username=Woogie-Gim&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F00" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Woogie-Gim">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woogie-Gim&layout=compact&theme=tokyonight&hide_border=true&title_color=00F00" alt="Top Langs" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Woogie-Gim&theme=tokyonight&hide_border=true&title_color=00F00" alt="GitHub Streak" />
+  </a>
+</div>
 
 ## Project
 
