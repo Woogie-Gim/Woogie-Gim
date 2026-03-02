@@ -18,9 +18,15 @@
 
 <h2 align="center">🛠 Tools 🛠</h2>
 <div align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
+  <br>
+  <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Confluence-172B4D.svg?style=for-the-badge&logo=Confluence&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Dooray!-2052B3.svg?style=for-the-badge&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white" />&nbsp;
 </div>
 
 <br>
@@ -35,10 +41,10 @@
 
 <div align="center">
   <a href="https://github.com/Woogie-Gim">
-    <img src="https://github-readme-stats.vercel.app/api?username=Woogie-Gim&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F00" alt="GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Woogie-Gim&theme=tokyonight" alt="GitHub Profile Details" />
   </a>
   <a href="https://github.com/Woogie-Gim">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woogie-Gim&layout=compact&theme=tokyonight&hide_border=true&title_color=00F00" alt="Top Langs" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Woogie-Gim&theme=tokyonight" alt="Top Langs" />
   </a>
 </div>
 
