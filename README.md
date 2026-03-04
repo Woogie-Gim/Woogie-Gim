@@ -75,6 +75,11 @@
 - 2025.08.07 ~ 2025.08.15
     - GDI+와 Win32 API를 활용해 구현한 2D 타워 디펜스 게임
     - C++ 언어로 직접 게임 루프, 렌더링 오브젝트 매니저, 시간 관리 등을 구현하여 상용 엔진 없이 동작하는 순수 Win32 기반 게임 구조를 설계
+
+### [Penguin Ice Survival](https://github.com/Woogie-Gim/DX12_Survivors_Game)
+- 2026.02.23 ~ 2026.03.04 Penguin Ice Survival (Survivors)
+    - 사방에서 몰려오는 적들을 처치하고 획득한 보석으로 무기를 강화하며 제한 시간 동안 살아남는 로그라이트 서바이벌 게임.
+    - 언리얼이나 유니티 같은 상용 엔진 없이 C++과 DirectX 12 API를 활용해 렌더링 파이프라인, 객체 메모리 최적화, 상태 기계(FSM) 기반의 씬 관리 등을 직접 설계하고 구현함.
 <!--
 **Woogie-Gim/Woogie-Gim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
