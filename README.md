@@ -80,6 +80,12 @@
 - 2026.02.14 ~ 2026.03.04 Penguin Ice Survival (Survivors)
     - 사방에서 몰려오는 적들을 처치하고 획득한 보석으로 무기를 강화하며 제한 시간 동안 살아남는 로그라이트 서바이벌 게임.
     - 언리얼이나 유니티 같은 상용 엔진 없이 C++과 DirectX 12 API를 활용해 렌더링 파이프라인, 객체 메모리 최적화, 상태 기계(FSM) 기반의 씬 관리 등을 직접 설계하고 구현함.
+
+### [QA Scope](https://github.com/Woogie-Gim/QAScope)
+- 2026.04.12 ~ 2026.04.28 QA Scope
+    - PC 환경에서 ADB를 통해 타겟 앱의 시스템 자원(메모리, CPU, 발열)을 실시간으로 추적하고 시각화하며 엑셀 리포트를 자동 생성하는 데스크톱 기반 QA 성능 프로파일링 툴
+    - Electron의 IPC 통신을 활용해 다중 프로세스(PID) 락온 및 병렬 데이터 수집 파이프라인을 구축하고, DOM 캡처(html2canvas)와 ExcelJS를 연동한 시각화 문서 자동화 아키텍처를 설계하여 반복적인 QA 테스트의 효율성을 극대화
+      
 <!--
 **Woogie-Gim/Woogie-Gim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
