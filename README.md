@@ -101,6 +101,7 @@
 
 ### [Project Docent](https://github.com/Woogie-Gim/DX12_Docent)
 - 2026.04.04 ~ 2026.07.27 Project Docent
+- [DocentARClient](https://github.com/Woogie-Gim/DocentARClient)
   - 모바일에서 촬영하거나 선택한 사진을 상용 엔진 없이 직접 구현한 DirectX 12 3D 전시관의 액자에 소켓 통신으로 실시간 전시하고 작품 설명(도슨트)까지 함께 전송해 표시하는 디지털 아트 갤러리. 센서·이미지 수집은 언리얼 클라이언트가 렌더링은 자작 DirectX 12 애플리케이션이 담당하는 분산 구조로 설계.
     - DirectX 12 로우레벨 API로 렌더 파이프라인과 GPU 리소스를 직접 관리하는 3D 전시관 렌더러를 구축하고 수신 이미지를 업로드 힙 경유 및 리소스 배리어 전환으로 GPU 텍스처에 실시간 스트리밍하는 파이프라인을 설계.
     - 업로드 버퍼를 1회 생성 후 재사용하도록 최적화하여 연속 전송 시 발생하는 GPU 리소스 수명 충돌 크래시를 원천 차단.
